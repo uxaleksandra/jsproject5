@@ -1,2 +1,2 @@
-﻿Moduł 8.5.Instrukcje warunkowe
-Zadanie: Instrukcje warunkowe w praktyce
+﻿Moduł 8.6. Funkcje
+Zadanie Zadanie: Tworzymy funkcje 
